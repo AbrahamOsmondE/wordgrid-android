@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Word Grid"
 include(":app")
- 
