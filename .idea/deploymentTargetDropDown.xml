@@ -5,6 +5,18 @@
       <entry key="app">
         <State />
       </entry>
+      <entry key="getWordList()">
+        <State />
+      </entry>
+      <entry key="getWordListWithQ()">
+        <State />
+      </entry>
+      <entry key="loadWordBank()">
+        <State />
+      </entry>
+      <entry key="preLoadWordBanks()">
+        <State />
+      </entry>
     </value>
   </component>
 </project>

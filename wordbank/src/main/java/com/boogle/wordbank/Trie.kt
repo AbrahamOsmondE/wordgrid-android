@@ -26,4 +26,8 @@ class Trie {
         }
         return currentNode.word != null
     }
+
+    fun getRoot(): Node {
+        return root
+    }
 }
