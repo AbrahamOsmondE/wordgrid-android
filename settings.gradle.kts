@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Word Grid"
 include(":app")
 include(":wordbank")
+include(":opencv")
